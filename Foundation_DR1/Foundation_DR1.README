@@ -3,7 +3,7 @@ Cosmologically Useful Type Ia Supernovae from the Foundation First Data Release
 
 This directory contains the set of cosmologically useful Type Ia supernovae published in the Foundation Supernova Survey First Data Release (Foley et al. 2018).  The full set is 180 SN Ia, 175 of which are at z > 0.015 and pass cosmology cuts (standard shape, color, shape uncertainty, and time of max uncertainty cuts) when fit using the SALT2.JLA-B14 model in SNANA.
 
-We have added a 1.5% error floor in quadrature to the griz photometry following Jones et al. (2019), who found by using survey simulations that uncertainties were likely slightly underestimated at the bright end.  We also suggest using the Pan-STARRS filter functions from Jones et al. (2019) in $SNDATA_ROOT/kcor/Foundation_DR1, who correct for color-dependent biases in the g band due to PSF-fitting photometry (also included in the github repo as kcor_PS1_none.fits).
+We have added a 1.5% error floor in quadrature to the griz photometry following Jones et al. (2019), who found by using survey simulations that uncertainties were likely slightly underestimated at the bright end.  We also suggest using the Pan-STARRS filter functions from Jones et al. (2019) in $SNDATA_ROOT/kcor/Foundation_DR1, who correct for color-dependent biases in the g band due to PSF-fitting photometry.
 
 Peculiar velocities are from the model of Carrick et al. (2015).  Milky Way reddening includes the Schlafly & Finkbeiner (2011) corrections to the dust maps of Schlegel, Finkbeiner & Davis (1998).  Flux zeropoints are the standard SNANA value of 27.5.
 
