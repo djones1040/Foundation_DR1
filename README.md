@@ -2,6 +2,7 @@ Cosmologically Useful Type Ia Supernovae from the Foundation First Data Release
 ===============================================================================
 
 Data curators: D. O. Jones, D. Scolnic, M. Foley
+
 DR1 authors: Foley, R. J., Scolnic, D., Rest, A., Jha, S. W., Pan, Y. -C., Riess, A. G., Challis, P., Chambers, K. C., Coulter, D. A., Dettman, K. G., Foley, M. M., Fox, O. D., Huber, M. E., Jones, D. O., Kilpatrick, C. D., Kirshner, R. P., Schultz, A. S. B., Siebert, M. R., Flewelling, H. A., Gibson, B. Magnier, E. A., Miller, J. A., Primak, N., Smartt, S. J., Smith, K. W., Wainscoat, R. J., Waters, C., Willman, M.
 
 This directory contains the set of cosmologically useful Type Ia supernovae published in the Foundation Supernova Survey First Data Release (Foley et al. 2018).  The full set is 180 SN Ia, 175 of which are at z > 0.015 and pass cosmology cuts (standard shape, color, shape uncertainty, and time of max uncertainty cuts) when fit using the SALT2.JLA-B14 model in SNANA.
