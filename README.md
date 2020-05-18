@@ -24,7 +24,7 @@ Please contact David Jones with any questions.  You may also raise an issue on g
 Analyses using these data
 -------------------------
 The Foundation Supernova Survey: motivation, design, implementation, and first data release
-Foley, R. J.,[12 authors], Jones, D. O. et al., 2018, MNRAS, 475, 193F
+Foley, Ryan J., Scolnic, Daniel, Rest, Armin et al., 2018, MNRAS, 475, 193F
 
 Should Type Ia Supernova Distances be Corrected for their Local Environments?
 Jones, D. O., Riess, A. G., Scolnic, D. M. et al., 2018, ApJ, 867, 108J
