@@ -16,6 +16,7 @@ Foundation host galaxy masses use ZPEG SED-fitting as described in Jones et al. 
 When using these data, please cite:
 
 Foley et al. (2018) - https://ui.adsabs.harvard.edu/abs/2018MNRAS.475..193F
+
 Jones et al. (2019) - https://ui.adsabs.harvard.edu/abs/2019ApJ...881...19J
 
 Please contact David Jones with any questions.  You may also raise an issue on github, github.com/djones1040/Foundation_DR1.
